@@ -16,7 +16,7 @@ The [machine learning for integrative genomics G5 group](https://research.pasteu
 |[<img src="https://raw.githubusercontent.com/cantinilab/circe/main/logo_dark_theme.svg" width="600">](https://github.com/cantinilab/circe) | [<img src="https://github.com/cantinilab/.github/blob/main/profile/logos/stories.png" width="600">](https://github.com/cantinilab/stories) | | | 
 **CIRCE**: Predict cis-regulatory interactions between DNA regions | **stories**: [Learning cell fate landscapes from spatial transcriptomics using Fused Gromov-Wasserstein](https://doi.org/10.1101/2024.07.26.605241) | | |
 |[<img src="https://github.com/cantinilab/.github/blob/main/profile/logos/python.svg" height="16">](https://github.com/cantinilab/circe) [<img src="https://github.com/cantinilab/.github/blob/main/profile/logos/package.svg" height="16"><sub><sup> PYPI</sup></sub>](https://pypi.org/project/circe-py/)  |
-| |[<img src="https://github.com/cantinilab/.github/blob/main/profile/logos/python.svg" height="16">](https://github.com/cantinilab/circe) [<img src="https://github.com/cantinilab/.github/blob/main/profile/logos/package.svg" height="16"><sub><sup> PYPI</sup></sub>](https://pypi.org/project/circe-py/)
+| |[<img src="https://github.com/cantinilab/.github/blob/main/profile/logos/python.svg" height="14">](https://github.com/cantinilab/circe) [<img src="https://github.com/cantinilab/.github/blob/main/profile/logos/package.svg" height="16"><sub><sup> PYPI</sup></sub>](https://pypi.org/project/circe-py/)
 
 ### Other resources
 ***
