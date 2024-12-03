@@ -5,7 +5,6 @@ Single-cell high-throughput sequencing, a major breakthrough in life sciences, a
 
 The [machine learning for integrative genomics G5 group](https://research.pasteur.fr/en/team/machine-learning-for-integrative-genomics/) works at the interface of machine learning and genomics, developing methods exploiting the full richness and complementarity of the available single-cell data to derive actionable biological knowledge.
 
-
 # Resources
 ***
 | [<img alt="Mowgli" src="https://raw.githubusercontent.com/r-trimbour/.github/main/profile/logos/mowgli.png" width="600"/>](https://github.com/cantinilab/Mowgli) | [<img alt="HuMMuS" src="https://raw.githubusercontent.com/r-trimbour/.github/main/profile/logos/hummus.png" heigth="20"/>](https://github.com/cantinilab/HuMMuS) | [<img alt="scConfluence" src="https://raw.githubusercontent.com/r-trimbour/.github/main/profile/logos/scconfluence.png" width="400"/>](https://github.com/cantinilab/scconfluence) | [<img alt="scPrint" src="https://raw.githubusercontent.com/r-trimbour/.github/main/profile/logos/scprint.png" width="500"/>](https://github.com/cantinilab/scPrint) |
